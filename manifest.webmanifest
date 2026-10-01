@@ -1,0 +1,11 @@
+{
+  "name": "Physical AI Atlas",
+  "short_name": "PA Atlas",
+  "description": "毎日10分で Physical AI を身につける学習の道具",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F6F8",
+  "theme_color": "#0B2545",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
